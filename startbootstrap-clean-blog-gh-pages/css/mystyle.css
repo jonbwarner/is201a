@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+}
+
+.content-box {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+#header {
+    color: #030609;
+    background-image: url('../assets/img/mountain.jpg');
+}
+
+#main-content {
+    font-size: 18px;
+}
+
+#video-tutorial {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    font-size: 16px;
+}
